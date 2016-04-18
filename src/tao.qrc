@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="yoda">res/images/yoda.png</file>
+        <file alias="cyclops0">res/images/cyclops0.png</file>
+        <file alias="black">res/images/black.png</file>
+        <file alias="rabbit">res/images/rabbit.png</file>
+        <file alias="star_beast1">res/images/star_beast1.png</file>
+    </qresource>
+</RCC>
